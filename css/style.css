@@ -1,0 +1,40 @@
+body{
+    background-color: plum;
+}
+
+h1{
+    background-color: aqua
+}
+
+#p-1{
+    background-color: bisque
+}
+
+h3{
+    background-color: blueviolet;
+}
+
+#p-2{
+ background-color: #558899;
+}
+
+ol{
+    background-color: azure;
+}
+
+#li-1{
+    background-color: #889955;
+}
+
+#li-2{
+    background-color: #447221;
+}
+#li-3{
+    background-color: #008855;
+}
+#li-4{
+    background-color: #465768;
+}
+#li-5{
+    background-color: greenyellow;
+}
